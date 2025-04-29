@@ -38,7 +38,7 @@ This was developed as a team under the **L&T EduTech initiative** and gave us ha
 ## 📷 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](C:\Users\reddy\OneDrive\Pictures\Screenshots)
 
 ### ➕ Add Task Page
 ![Add Task Page](screenshots/add-task-page.png)
