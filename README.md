@@ -41,7 +41,7 @@ This was developed as a team under the **L&T EduTech initiative** and gave us ha
 ![Landing Page](landing-page.png)
 
 ### ➕ Add Task Page
-![Add Task Page](add-task.png)
+![Add Task Page](add-task-page.png)
 
 ### 📋 Task List Page
 ![Task List](task-list-page.png)
