@@ -1,0 +1,90 @@
+body {
+    background-color: #e0f7fa;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin-top: 50px;
+    padding: 30px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .task-item {
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background: #f8f9fa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .task-completed {
+    text-decoration: line-through;
+    color: green;
+  }
+  
+  .badge-category {
+    margin-right: 10px;
+  }
+  
+  .task-icons i {
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .priority-icon {
+    font-size: 1.2em;
+    margin-right: 5px;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    font-size: 0.9rem;
+  }
+  
+  .progress {
+    height: 25px;
+  }
+  
+  .filter-btns {
+    margin: 25px 0 20px 0;
+    text-align: center;
+  }
+  
+  .filter-btns .btn i {
+    margin-right: 5px;
+  }
+  
+  .overlay {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    text-align: center;
+  }
+  
+  .btn-custom {
+    margin: 10px;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+  }
+  
+  .about {
+    max-width: 600px;
+    font-size: 1.2rem;
+    margin: 1.5rem auto;
+  }
+  
