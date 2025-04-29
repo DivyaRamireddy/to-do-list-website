@@ -9,9 +9,9 @@ A modern and interactive web-based **To-Do List App** built using HTML, CSS, Jav
 **UI/UX Full Stack Development**
 
 ## 👥 Team Members:
+- **Ramireddy Divya**
 - **Nimmakayala Harsha Vardhan Reddy**
 - **Pallam Balasubramanyam**
-- **Ramireddy Divya**
 - **G.A. Chandu**
 
 ---
@@ -38,13 +38,13 @@ This was developed as a team under the **L&T EduTech initiative** and gave us ha
 ## 📷 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](C:\Users\reddy\OneDrive\Pictures\Screenshots)
+![Landing Page]()
 
 ### ➕ Add Task Page
-![Add Task Page](screenshots/add-task-page.png)
+![Add Task Page]()
 
 ### 📋 Task List Page
-![Task List](screenshots/task-list-page.png)
+![Task List]()
 
 ---
 
@@ -52,4 +52,4 @@ This was developed as a team under the **L&T EduTech initiative** and gave us ha
 
 1. Download the repository or clone using:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/DivyaRamireddy/to-do-list-website.git
