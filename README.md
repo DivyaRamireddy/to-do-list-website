@@ -38,13 +38,13 @@ This was developed as a team under the **L&T EduTech initiative** and gave us ha
 ## 📷 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page]()
+![Landing Page](landing-page.png)
 
 ### ➕ Add Task Page
-![Add Task Page]()
+![Add Task Page](add-task.png)
 
 ### 📋 Task List Page
-![Task List]()
+![Task List](task-list-page.png)
 
 ---
 
